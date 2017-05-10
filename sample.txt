@@ -1,2 +1,4 @@
 This is a sample text file to go into my first self made repo.
 NO, IT IS NOT COOL.
+
+Hi there.
